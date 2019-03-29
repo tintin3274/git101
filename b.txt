@@ -1,1 +1,1 @@
-This is b text file
+edit b.text in master
